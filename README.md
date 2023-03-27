@@ -1,4 +1,4 @@
-# md-excercise
+# md-exercise
 ## headline2
 ### headline3
 #### headline4
