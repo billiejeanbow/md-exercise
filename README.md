@@ -66,3 +66,5 @@ class img:
 this is the end of the exercise :thumbsup:
 
 HOW ABOUT NOW
+
+more info.
